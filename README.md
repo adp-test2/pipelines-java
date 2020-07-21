@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tobiaswalke/learning-202007-2/_apis/build/status/learning-202007-2-Maven-CI-2?branchName=master)](https://dev.azure.com/tobiaswalke/learning-202007-2/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
